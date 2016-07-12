@@ -1,0 +1,94 @@
+body {
+    background-image: url('../img/background.jpg');
+    background-repeat: repeat;
+}
+
+.container {
+    margin-top: 2%;
+    background-image: url('../img/cont_background.jpg');
+    background-repeat: repeat;
+    border-radius: 0.625em;
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+}
+
+.my-header {
+    background-color: white;
+    background-image: url('../img/italian_flag.gif');
+    background-size: cover;
+    font-family: "Brush Script MT", cursive;
+    border: 0.1875em solid #b2dba1;
+    border-radius: 0.625em;
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+}
+
+.img-right {
+    float: right;
+}
+
+
+
+.img-responsive {
+    margin: 0 auto;
+    margin-top: 0.3125em;
+    margin-bottom: 0.3125em;
+}
+
+.img-rounded {
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+}
+.about-us {
+    background-color: #f7e1b5;
+    border-radius: 0.625em;
+    margin-top: 0.3125em;
+    margin-bottom: 0.3125em;
+    opacity: .7;
+    text-align: center;
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+}
+
+.welcome {
+    padding: 0.625em;
+}
+
+
+
+h2, h3, h4, .address {
+    text-align: center;
+}
+
+.menu-container {
+    padding: 0.3125em;
+}
+
+.menu-item{
+    background-color: #f7e1b5;
+    border-radius: 0.625em;
+    opacity: .7;
+    text-align: center;
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+    margin-bottom: 0.3125em;
+}
+
+.my-form{
+    background-color: #f7e1b5;
+    border-radius: 0.625em;
+    opacity: .8;
+    box-shadow: 0.3125em 0.3125em 0.3125em #45443C;
+    margin-bottom: 0.3125em;
+    padding: 0.9375em;
+}
+
+.form-right {
+    text-align: right;
+    margin-right: 3.125em;
+    margin-top: 1.25em;
+}
+
+footer {
+    background-color: silver;
+    margin-top: 1.25em;
+}
+
+.form-button {
+    margin-bottom: 5%;
+}
